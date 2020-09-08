@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 50b48bad54c5db04eb13d6492563bb57
+timeCreated: 1492277975
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Armature.003
+    100008: Bone
+    100010: Bone 1
+    100012: Bone 2
+    100014: Bone 3
+    100016: Bone.001
+    100018: Bone.001 1
+    100020: Bone.001 2
+    100022: Bone.001 3
+    100024: Bone.001_end
+    100026: Bone.002
+    100028: Bone.002 1
+    100030: Bone.002_end
+    100032: Bone.002_end 1
+    100034: Bone.003
+    100036: Bone.003 1
+    100038: Bone.004
+    100040: Bone.004 1
+    100042: Bone_end
+    100044: Bone_end 1
+    100046: Bone_end 2
+    100048: Bone_end 3
+    100050: Box
+    100052: Cube
+    100054: Cube.001
+    100056: Cube.002
+    100058: Cube.003
+    100060: Cube.004
+    100062: Cube.005
+    100064: Cylinder
+    100066: Cylinder.001
+    100068: Cylinder.002
+    100070: Cylinder.003
+    100072: Fence
+    100074: Flag
+    100076: Flag.001
+    100078: Flag.002
+    100080: Flag.003
+    100082: FlagBig
+    100084: FlagBig.001
+    100086: L.Fence
+    100088: R.Fence
+    100090: //RootNode
+    100092: StairWheel
+    100094: Wheel
+    100096: WheelStand
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Armature.003
+    400008: Bone
+    400010: Bone 1
+    400012: Bone 2
+    400014: Bone 3
+    400016: Bone.001
+    400018: Bone.001 1
+    400020: Bone.001 2
+    400022: Bone.001 3
+    400024: Bone.001_end
+    400026: Bone.002
+    400028: Bone.002 1
+    400030: Bone.002_end
+    400032: Bone.002_end 1
+    400034: Bone.003
+    400036: Bone.003 1
+    400038: Bone.004
+    400040: Bone.004 1
+    400042: Bone_end
+    400044: Bone_end 1
+    400046: Bone_end 2
+    400048: Bone_end 3
+    400050: Box
+    400052: Cube
+    400054: Cube.001
+    400056: Cube.002
+    400058: Cube.003
+    400060: Cube.004
+    400062: Cube.005
+    400064: Cylinder
+    400066: Cylinder.001
+    400068: Cylinder.002
+    400070: Cylinder.003
+    400072: Fence
+    400074: Flag
+    400076: Flag.001
+    400078: Flag.002
+    400080: Flag.003
+    400082: FlagBig
+    400084: FlagBig.001
+    400086: L.Fence
+    400088: R.Fence
+    400090: //RootNode
+    400092: StairWheel
+    400094: Wheel
+    400096: WheelStand
+    2300000: Box
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cube.003
+    2300010: Cube.004
+    2300012: Cube.005
+    2300014: Cylinder
+    2300016: Cylinder.001
+    2300018: Cylinder.002
+    2300020: Cylinder.003
+    2300022: Fence
+    2300024: FlagBig
+    2300026: FlagBig.001
+    2300028: L.Fence
+    2300030: R.Fence
+    2300032: StairWheel
+    2300034: Wheel
+    2300036: WheelStand
+    3300000: Box
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cube.003
+    3300010: Cube.004
+    3300012: Cube.005
+    3300014: Cylinder
+    3300016: Cylinder.001
+    3300018: Cylinder.002
+    3300020: Cylinder.003
+    3300022: Fence
+    3300024: FlagBig
+    3300026: FlagBig.001
+    3300028: L.Fence
+    3300030: R.Fence
+    3300032: StairWheel
+    3300034: Wheel
+    3300036: WheelStand
+    4300000: Cube.005
+    4300002: Cylinder.003
+    4300004: Cylinder.002
+    4300006: Box
+    4300008: Flag
+    4300010: Flag.002
+    4300012: Flag.001
+    4300014: Flag.003
+    4300016: Cube.004
+    4300018: Cube.003
+    4300020: Cylinder.001
+    4300022: FlagBig.001
+    4300024: Cube.002
+    4300026: Cube.001
+    4300028: Cube
+    4300030: Cylinder
+    4300032: FlagBig
+    4300034: R.Fence
+    4300036: Fence
+    4300038: L.Fence
+    4300040: StairWheel
+    4300042: WheelStand
+    4300044: Wheel
+    6400000: Box
+    6400002: Cube
+    6400004: Cube.001
+    6400006: Cube.002
+    6400008: Cube.003
+    6400010: Cube.004
+    6400012: Cube.005
+    6400014: Cylinder
+    6400016: Cylinder.001
+    6400018: Cylinder.002
+    6400020: Cylinder.003
+    6400022: Fence
+    6400024: FlagBig
+    6400026: FlagBig.001
+    6400028: L.Fence
+    6400030: R.Fence
+    6400032: StairWheel
+    6400034: Wheel
+    6400036: WheelStand
+    9500000: //RootNode
+    13700000: Flag
+    13700002: Flag.001
+    13700004: Flag.002
+    13700006: Flag.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
