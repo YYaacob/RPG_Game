@@ -64,6 +64,7 @@
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\SuperCharacterController\DebugDraw.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\Bloom.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
+    <Compile Include="Assets\ThirdPersonCamera.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\Triangles.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\Scripts\SimpleStateMachine.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Code\GUIControlsFREE.cs" />
@@ -83,7 +84,8 @@
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\Quads.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\SuperCharacterController\Core\SuperCharacterController.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Code\RPGCharacterMovementControllerFREE.cs" />
-    <Compile Include="Assets\ThirdPersonCamera.cs" />
+    <Compile Include="Assets\Huge Mocap Library\demo\scripts\demo.cs" />
+    <Compile Include="Assets\Huge Mocap Library\demo\scripts\smoothFollow.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\Tonemapper.shader" />
@@ -105,6 +107,7 @@
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\ConvertDepth.shader" />
      <None Include="Assets\TSF\Shaders\TSF.shader" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\TwirlEffect.shader" />
+     <None Include="Assets\Huge Mocap Library\mocap animations\cmu-mocap-index-text.txt" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\CameraMotionBlur.shader" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
@@ -124,6 +127,7 @@
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\FisheyeShader.shader" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+     <None Include="Assets\Huge Mocap Library\READTHIS.txt" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
