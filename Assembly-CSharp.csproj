@@ -75,17 +75,20 @@
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\ImageEffects.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Code\CameraController.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
+    <Compile Include="Assets\Huge Mocap Library\demo\scripts\demo.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\SuperCharacterController\Core\SuperMath.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\SuperCharacterController\Core\SuperCollider.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\SuperCharacterController\Core\BSPTree.cs" />
+    <Compile Include="Assets\Huge Mocap Library\demo\scripts\smoothFollow.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\Scripts\Gravity.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Code\RPGCharacterControllerFREE.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\PostEffectsBase.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\Quads.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\SuperCharacterController\Core\SuperCharacterController.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Code\RPGCharacterMovementControllerFREE.cs" />
-    <Compile Include="Assets\Huge Mocap Library\demo\scripts\demo.cs" />
-    <Compile Include="Assets\Huge Mocap Library\demo\scripts\smoothFollow.cs" />
+    <Compile Include="Assets\Scripts\PickUp.cs" />
+    <Compile Include="Assets\Scripts\Currency.cs" />
+    <Compile Include="Assets\Scripts\Inventory.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\Tonemapper.shader" />
