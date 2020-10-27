@@ -55,6 +55,7 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Slot.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\ImageEffectBase.cs" />
     <Compile Include="Assets\Scripts\Currency.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Code\RPGCharacterWeaponControllerFREE.cs" />
@@ -86,11 +87,11 @@
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\Scripts\Gravity.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Code\RPGCharacterControllerFREE.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\PostEffectsBase.cs" />
+    <Compile Include="Assets\Scripts\Item.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Scripts\Quads.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\SuperCharacterController\Core\SuperCharacterController.cs" />
     <Compile Include="Assets\RPG Character Animation Pack FREE\Code\RPGCharacterMovementControllerFREE.cs" />
-    <Compile Include="Assets\Scripts\Item.cs" />
-    <Compile Include="Assets\Scripts\Slot.cs" />
+    <Compile Include="Assets\Scripts\FastTravel.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\RPG Character Animation Pack FREE\Elements\ImageEffects\Shaders\Tonemapper.shader" />
